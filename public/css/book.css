@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.highlight {
+  background-color: #fff100; /* 鮮やかな黄色 */
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 2px;
+}
